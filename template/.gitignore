@@ -1,0 +1,13 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.gz
+*Notes.bib
+*.zip
+*.pdf
+!fig/**
+*.fls
+*.fdb_latexmk
+*.xdv
