@@ -2,3 +2,4 @@
 *.bbl
 *.synctex.gz
 *.bib
+.DS_Store
